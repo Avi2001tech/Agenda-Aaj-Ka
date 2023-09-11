@@ -50,3 +50,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need assistance, feel free to contact us at [your-email@example.com].
 
 Happy event managing and date remembering!
+
+## Login
+![image](https://github.com/Avi2001tech/Agenda-Aaj-Ka/assets/80159964/ee97686f-be6d-41f6-a30b-0085c35eee39)
+
+## SignUp
+![image](https://github.com/Avi2001tech/Agenda-Aaj-Ka/assets/80159964/ab46d696-df7f-4e80-ba5a-7df1c0ee8508)
+
+
